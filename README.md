@@ -100,7 +100,7 @@ I specialize in **microservices architecture**, **event-driven platforms**, and 
 
 ---
 
-## 📊 GitHub Analytics (Dark Mode)
+## 📊 GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DhananjayKumar20&show_icons=true&theme=github_dark&hide_border=true&ring_color=00E5FF" />
