@@ -26,7 +26,7 @@ I specialize in **microservices architecture**, **event-driven platforms**, and 
 ## 💼 Professional Experience
 
 ### 🚀 Java Developer Intern — **Retax Infotech Pvt Ltd**
-📅 *Sep 2025 – Dec 2025 | Remote*
+📅 *Sep 2025 – Present | Remote*
 
 - Developed **Zoho-style Cloud Accounting Platform**
 - Designed **multi-tenant architecture** with performance optimization
