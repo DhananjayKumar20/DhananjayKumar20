@@ -28,10 +28,10 @@ I specialize in **microservices architecture**, **event-driven platforms**, and 
 ### 🚀 Java Developer Intern — **Retax Infotech Pvt Ltd**
 📅 *Sep 2025 – Present | Remote*
 
-- Developed **Zoho-style Cloud Accounting Platform**
-- Designed **multi-tenant architecture** with performance optimization
-- Built **secure REST APIs** using Spring Security, JWT & RBAC
-- Implemented **GST taxation logic** (Interstate, Intrastate, TDS/TCS)
+- Developed **Zoho-type Cloud ERP Accounting Platform** for school/education management using **Java, Spring Boot, Hibernate & MySQL**, covering student management, invoicing, advance payments, refunds, payment receipts, user management, and expense management with a **scalable multi-tenant architecture**
+- Designed **dynamic print & receipt generation system** for automatic invoice payment and advance payment receipts, improving document accuracy while reducing manual effort
+- Implemented **Redis caching**, integrated **Apache Kafka & WebSockets**, and built an automated **WhatsApp notification system** to alert students/parents about overdue and pending invoice payments, improving fee collection follow-up
+- Engineered **secure RESTful APIs** using **Spring Security, JWT & RBAC**, implemented advanced **GST taxation logic** (Interstate, Intrastate, Reverse Charge, TDS & TCS), and performed **query optimization & performance tuning** to improve application scalability and system throughput
 
 ---
 
