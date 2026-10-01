@@ -29,10 +29,12 @@ I specialize in **microservices architecture**, **event-driven platforms**, and 
 📅 *Sep 2025 – Present | Remote*
 
 - Developed **Zoho-type Cloud ERP Accounting Platform** for school/education management using **Java, Spring Boot, Hibernate & MySQL**, covering student management, invoicing, advance payments, refunds, payment receipts, user management, and expense management with a **scalable multi-tenant architecture**
-- Designed **dynamic print & receipt generation system** for automatic invoice payment and advance payment receipts, improving document accuracy while reducing manual effort
-- Implemented **Redis caching**, integrated **Apache Kafka & WebSockets**, and built an automated **WhatsApp notification system** to alert students/parents about overdue and pending invoice payments, improving fee collection follow-up
-- Engineered **secure RESTful APIs** using **Spring Security, JWT & RBAC**, implemented advanced **GST taxation logic** (Interstate, Intrastate, Reverse Charge, TDS & TCS), and performed **query optimization & performance tuning** to improve application scalability and system throughput
-
+- Built additional ERP modules including **Teacher Management, Salary Slip/Payroll, Student Marksheet, ID Card, and Leave Certificate**, and designed professional, print-ready templates for salary slips, marksheets, ID cards, and leave certificates for accurate and standardized document generation
+- Designed **dynamic print & receipt generation system** enabling automatic invoice payment receipts and advance payment receipts, improving document accuracy while reducing manual effort
+- Implemented **Redis caching** to reduce database load, and integrated **Apache Kafka & WebSockets** to build an automated **WhatsApp notification system** alerting students/parents about overdue or pending invoice payments, improving fee collection follow-up
+- Set up **real-time monitoring using Grafana and Prometheus**, including JVM heap, GC pauses, request latency, and throughput dashboards across test and production environments, enabling proactive detection of performance bottlenecks
+- Executed **test plans** for assigned modules, prepared test data, and performed database-level checks; identified, logged, and debugged issues found during testing across the software development lifecycle
+- Conducted **load and performance testing using Apache JMeter**, executed unit tests using **JUnit and Mockito** to validate expected results against defined test cases, and documented outcomes; identified slow endpoints and query bottlenecks and applied targeted **query/index optimizations** that improved API response time and overall system throughput.
 ---
 
 ### 🚀 Java Developer Intern — **SolSoN Tech Pvt Ltd**
